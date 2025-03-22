@@ -43,6 +43,6 @@ Sistema de reputación: mostrar puntuaciones de los vendedores en base a sus ven
 
 Clientes del Sistema
 
-Portal web: donde los jugadores pueden explorar cartas, comparar precios y realizar compras.
+Pagina web: donde los jugadores pueden buscar cartas, comparar precios y realizar compras.
 
-Panel de administración: donde los moderadores pueden gestionar anuncios, resolver disputas y verificar usuarios.
+Panel de administración: donde los moderadores pueden gestionar anuncios, resolver quejas y verificar usuarios.
